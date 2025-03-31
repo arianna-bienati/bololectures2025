@@ -1,0 +1,8 @@
+pos_ud	author_proficiency_level	count
+SCONJ	B1	5005
+SCONJ	A2	2612
+SCONJ	B2	2387
+SCONJ	unknown	471
+SCONJ	C1	457
+SCONJ	C2	153
+SCONJ	A1	26

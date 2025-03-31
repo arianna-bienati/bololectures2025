@@ -1,0 +1,9 @@
+#1|tok_pos	meta|_rating_fair_cefr	count
+CON	B1	2343
+CON	A2	884
+CON	A2+	482
+CON	B1+	430
+CON	A1	51
+CON	B2	16
+CON	unrated	4
+CON		4

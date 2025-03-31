@@ -1,0 +1,8 @@
+author_proficiency_level	count
+B1	178674
+A2	88915
+B2	86150
+C1	19937
+unknown	18456
+C2	6693
+A1	929

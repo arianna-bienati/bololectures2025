@@ -1,0 +1,8 @@
+author_proficiency_level	count
+A1	1523
+A2	22880
+A2+	10371
+B1	59570
+B1+ 12039
+B2  500
+unrated	264

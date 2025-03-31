@@ -38,3 +38,64 @@ A corpus is also usually annotated to enhance potential for linguistic analysis�
 * metadati: sappiamo moltissimo sull’autore/autrice del testo, es. usi linguistici, proficiency, task, etc. vs. non sappiamo quasi nulla degli autori che contribuiscono ai corpora generali.
 * rappresentativi? sample sono quasi sempre relativi a una singola certificazione (es. LIPS, COLI), o relativi a una specifica regione (es. LEONIDE, KOLIPSI x Alto Adige). Eccezione di Valico che raccoglie testi da tantissime location e centri linguistici.
 * annotazioni: oltre ai classici lemma e pos, può essere annotata anche la target hypothesis, errori ortografici, grammaticali, etc. code-switching, etc.
+
+## Usare i learner corpora
+
+Sillabo data-driven: parole connettive nello scritto di apprendenti di livello B1-C2.
+
+### 1.1 - Scelta del corpus
+
+* Corpora con CEFR: CELI, COLI, LOCCLI, KOLIPSI-2, MERLIN
+* CEFR B1-C2: CELI, KOLIPSI-2
+
+### 1.2 - Costruzione della query
+
+* CELI: 
+    * vado su "Restricted query"
+    * seleziono CQP syntax 
+    * query [pos = "SUB"] oppure [pos = "(SUB|CON)"]
+
+* KOLIPSI-2:
+    * vado su all4ling.eurac.edu/annis
+    * seleziono Kolipsi-2_L2_IT
+    * Query builder > word sequences & meta > (Linguistic sequence) initialize > add > pos_ud SCONJ;
+    * (Meta information) > add > author_proficiency_level > B1 (meta::author_proficiency_level = "B1")
+    * Trick the query to search for both CCONJ and SCONJ = pos_ud = /.*CONJ/; alternatively look for pos = CON 
+
+### 1.3 - come varia l'uso dei connettivi nei diversi livelli del CEFR?
+
+* CELI
+
+Tendenze generali
+
+| cefr | norm frequency | types | types/tokens |
+|------|----------------|-------|--------------|
+| B1   |12,029.73       |39     |              |
+| B2   |13,996.62       |52     |              |
+| C1   |10,576.61       |52     |              |
+| C2   |10,140.63       |59     |              |
+
+Quali sono i connettivi comuni a tutti i livelli? ​​
+
+Nonostante, affinché, che cosa, chi, com', come, cos', cosa, dato che, dove, finché, in quanto, perché, poiché, prima che, quale, quali, quanto, se, sempre che, senza che, tanto che, tanto da, 
+
+Connettivi tipici livelli più avanzati (appaiono solo nei livelli C1-C2):
+
+Dal momento che, Quando, a patto che, malgrado che, per quanto, quasi che, si, tant'è vero che, Può darsi che, allo scopo di, laddove, sebbene, Adesso che, Pur, Tant'è vero che, Tanto è vero che, benché, dal momento che, dovunque, in modo da, nel momento in cui, quado, qual, quant'
+
+Vedi notebook per tendenze interessanti sui singoli connettivi.
+
+* KOLIPSI-2
+
+Tendenze generali
+
+| cefr | norm frequency | types | types/tokens |
+|------|----------------|-------|--------------|
+| B1   |12,029.73       |39     |              |
+| B2   |13,996.62       |52     |              |
+| C1   |10,576.61       |52     |              |
+| C2   |10,140.63       |59     |              |
+
+Quali sono i connettivi comuni a tutti i livelli? ​​
+
+Connettivi tipici livelli più avanzati (appaiono solo nei livelli C1-C2):
