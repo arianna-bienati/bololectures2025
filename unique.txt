@@ -1,0 +1,87 @@
+lemma	groups
+A patto che	B2, C2
+Adesso che	C2
+Benché	B1, B2, C1
+Dal momento che	C1
+Dal momento in cui	B2
+Dopo che	B1, C2
+Invece che	B1
+Mentre	B1
+Non appena	B2, C1, C2
+Nonostante	B1, B2, C1, C2
+Ogni volta che	B2
+Per quanto	B1, B2, C2
+Pur	C2
+Può darsi che	C1, C2
+Quando	C1
+Sebbene	B1, B2
+Siccome	B2, C2
+Tant'è vero che	C2
+Tanto è vero che	C2
+a meno che	B2, C1, C2
+a parte che	B1
+a patto che	C1
+adesso che	B1, B2, C1
+affinché	B1, B2, C1, C2
+al punto che	B2, C2
+allo scopo di	C1, C2
+anziché	B2, C1, C2
+benché	C2
+che cosa	B1, B2, C1, C2
+chi	B1, B2, C1, C2
+com'	B1, B2, C1, C2
+come	B1, B2, C1, C2
+come mai	B2, C1, C2
+con tutto che	B1
+cos'	B1, B2, C1, C2
+cosa	B1, B2, C1, C2
+cosicché	B2, C1, C2
+cuando	B2
+dal momento che	C2
+dato che	B1, B2, C1, C2
+dopo che	B2, C1
+dove	B1, B2, C1, C2
+dovunque	C2
+finché	B1, B2, C1, C2
+giacché	B2, C1, C2
+in modo che	B2, C1, C2
+in modo da	C2
+in quanto	B1, B2, C1, C2
+invece che	B2, C1, C2
+laddove	C1, C2
+malgrado	B2
+malgrado che	C1
+mentre	B2, C1, C2
+nel momento in cui	C2
+non appena	B1
+ogni volta che	B1, C1, C2
+ove	B1, C2
+per il fatto che	B2, C1, C2
+per quanto	C1
+perché	B1, B2, C1, C2
+piuttosto che	B2, C1, C2
+poiché	B1, B2, C1, C2
+prima che	B1, B2, C1, C2
+pur	B2, C1
+purché	B2, C2
+può darsi che	B2
+quado	C2
+qual	C2
+quale	B1, B2, C1, C2
+quali	B1, B2, C1, C2
+quand'	B2
+quando	B1, B2, C2
+quant'	C2
+quante	B1
+quanti	B1, B2
+quanto	B1, B2, C1, C2
+quasi che	C1
+se	B1, B2, C1, C2
+sebbene	C1, C2
+sempre che	B1, B2, C1, C2
+senza che	B1, B2, C1, C2
+si	C1
+siccome	B1, C1
+tant'è vero che	C1
+tanto che	B1, B2, C1, C2
+tanto da	B1, B2, C1, C2

@@ -1,0 +1,203 @@
+livello_CEFR	lemma	occurrences	percent
+B2	a meno che	1	0.05
+C1	a meno che	4	0.25
+C2	a meno che	2	0.13
+B1	a parte che	1	0.05
+B2	A patto che	2	0.09
+C1	a patto che	3	0.19
+C2	A patto che	2	0.13
+B1	adesso che	5	0.27
+B2	adesso che	4	0.19
+C1	adesso che	3	0.19
+C2	Adesso che	3	0.20
+B1	affinché	1	0.05
+B2	affinché	8	0.38
+C1	affinché	16	1.01
+C2	affinché	7	0.46
+B2	al punto che	1	0.05
+C2	al punto che	1	0.07
+C1	allo scopo di	2	0.13
+C2	allo scopo di	1	0.07
+B2	anziché	1	0.05
+C1	anziché	3	0.19
+C2	anziché	2	0.13
+B1	Benché	2	0.11
+B2	Benché	17	0.80
+C1	Benché	8	0.50
+C2	benché	8	0.53
+B1	che cosa	23	1.22
+B2	che cosa	18	0.84
+C1	che cosa	2	0.13
+C2	che cosa	8	0.53
+B1	chi	2	0.11
+B2	chi	9	0.42
+C1	chi	3	0.19
+C2	chi	5	0.33
+B1	com'	7	0.37
+B2	com'	14	0.66
+C1	com'	9	0.57
+C2	com'	6	0.39
+B1	come	37	1.96
+B2	come	16	0.75
+C1	come	17	1.07
+C2	come	11	0.72
+B2	come mai	1	0.05
+C1	come mai	2	0.13
+C2	come mai	1	0.07
+B1	con tutto che	1	0.05
+B1	cos'	8	0.42
+B2	cos'	3	0.14
+C1	cos'	2	0.13
+C2	cos'	1	0.07
+B1	cosa	72	3.82
+B2	cosa	55	2.58
+C1	cosa	26	1.64
+C2	cosa	26	1.71
+B2	cosicché	1	0.05
+C1	cosicché	2	0.13
+C2	cosicché	1	0.07
+B2	cuando	1	0.05
+C1	Dal momento che	5	0.32
+C2	dal momento che	1	0.07
+B2	Dal momento in cui	1	0.05
+B1	dato che	4	0.21
+B2	dato che	11	0.52
+C1	dato che	20	1.26
+C2	dato che	11	0.72
+B1	Dopo che	16	0.85
+B2	dopo che	13	0.61
+C1	dopo che	4	0.25
+C2	Dopo che	3	0.20
+B1	dove	7	0.37
+B2	dove	8	0.38
+C1	dove	4	0.25
+C2	dove	10	0.66
+C2	dovunque	2	0.13
+B1	finché	1	0.05
+B2	finché	13	0.61
+C1	finché	8	0.50
+C2	finché	13	0.86
+B2	giacché	4	0.19
+C1	giacché	5	0.32
+C2	giacché	4	0.26
+B2	in modo che	2	0.09
+C1	in modo che	11	0.69
+C2	in modo che	7	0.46
+C2	in modo da	1	0.07
+B1	in quanto	5	0.27
+B2	in quanto	16	0.75
+C1	in quanto	12	0.76
+C2	in quanto	15	0.99
+B1	Invece che	1	0.05
+B2	invece che	2	0.09
+C1	invece che	2	0.13
+C2	invece che	3	0.20
+C1	laddove	1	0.06
+C2	laddove	3	0.20
+B2	malgrado	4	0.19
+C1	malgrado che	3	0.19
+B1	Mentre	101	5.36
+B2	mentre	33	1.55
+C1	mentre	38	2.40
+C2	mentre	64	4.21
+C2	nel momento in cui	8	0.53
+B1	non appena	1	0.05
+B2	Non appena	1	0.05
+C1	Non appena	1	0.06
+C2	Non appena	2	0.13
+B1	Nonostante	5	0.27
+B2	Nonostante	25	1.17
+C1	Nonostante	17	1.07
+C2	Nonostante	13	0.86
+B1	ogni volta che	1	0.05
+B2	Ogni volta che	12	0.56
+C1	ogni volta che	4	0.25
+C2	ogni volta che	14	0.92
+B1	ove	1	0.05
+C2	ove	1	0.07
+B2	per il fatto che	1	0.05
+C1	per il fatto che	3	0.19
+C2	per il fatto che	2	0.13
+B1	Per quanto	1	0.05
+B2	Per quanto	6	0.28
+C1	per quanto	7	0.44
+C2	Per quanto	11	0.72
+B1	perché	760	40.34
+B2	perché	531	24.92
+C1	perché	412	25.99
+C2	perché	362	23.82
+B2	piuttosto che	4	0.19
+C1	piuttosto che	5	0.32
+C2	piuttosto che	10	0.66
+B1	poiché	6	0.32
+B2	poiché	18	0.84
+C1	poiché	17	1.07
+C2	poiché	25	1.64
+B1	prima che	2	0.11
+B2	prima che	5	0.23
+C1	prima che	2	0.13
+C2	prima che	5	0.33
+B2	può darsi che	1	0.05
+C1	Può darsi che	2	0.13
+C2	Può darsi che	1	0.07
+B2	pur	7	0.33
+C1	pur	11	0.69
+C2	Pur	13	0.86
+B2	purché	1	0.05
+C2	purché	3	0.20
+C2	quado	2	0.13
+C2	qual	2	0.13
+B1	quale	19	1.01
+B2	quale	29	1.36
+C1	quale	20	1.26
+C2	quale	16	1.05
+B1	quali	6	0.32
+B2	quali	14	0.66
+C1	quali	9	0.57
+C2	quali	17	1.12
+B2	quand'	1	0.05
+B1	quando	380	20.17
+B2	quando	635	29.80
+C1	Quando	256	16.15
+C2	quando	292	19.21
+C2	quant'	2	0.13
+B1	quante	1	0.05
+B1	quanti	1	0.05
+B2	quanti	2	0.09
+B1	quanto	5	0.27
+B2	quanto	6	0.28
+C1	quanto	2	0.13
+C2	quanto	7	0.46
+C1	quasi che	1	0.06
+B1	se	298	15.82
+B2	se	490	22.99
+C1	se	536	33.82
+C2	se	434	28.55
+B1	Sebbene	1	0.05
+B2	Sebbene	26	1.22
+C1	sebbene	19	1.20
+C2	sebbene	13	0.86
+B1	sempre che	1	0.05
+B2	sempre che	5	0.23
+C1	sempre che	3	0.19
+C2	sempre che	7	0.46
+B1	senza che	1	0.05
+B2	senza che	3	0.14
+C1	senza che	3	0.19
+C2	senza che	6	0.39
+C1	si	1	0.06
+B1	siccome	41	2.18
+B2	Siccome	38	1.78
+C1	siccome	30	1.89
+C2	Siccome	10	0.66
+C1	tant'è vero che	1	0.06
+C2	Tant'è vero che	1	0.07
+B1	tanto che	56	2.97
+B2	tanto che	5	0.23
+C1	tanto che	5	0.32
+C2	tanto che	9	0.59
+B1	tanto da	3	0.16
+B2	tanto da	6	0.28
+C1	tanto da	3	0.19
+C2	tanto da	9	0.59
+C2	Tanto è vero che	1	0.07
