@@ -1,0 +1,25 @@
+lemma	groups
+affinché	B1, B2, C2
+anziché	C1
+appena	B2
+benché	B1
+com'	A2, B1
+com'é	A2
+come	A2, B1, B2, C1, C2
+comunque	B1, B2
+cos'è	A2, B2
+cosa	A2, B1, B2
+dopo	A2, B1, B2, C1, C2
+dopodiché	B1, B2, C1
+dove	A2, B1, B2
+essere	B1, B2, C1
+finché	A2, B1, B2, C1
+mentre	A2, B1, B2, C1, C2
+perché	A1, A2, B1, B2, C1, C2
+perciò	B1, B2, C1
+poiché	A2, B1, B2, C1, C2
+quando	A1, A2, B1, B2, C1, C2
+quanto	B2, C1
+se	A1, A2, B1, B2, C1, C2
+sebbene	B1
+siccome	A2, B1, B2, C1, C2
