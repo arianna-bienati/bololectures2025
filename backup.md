@@ -68,16 +68,25 @@ Sillabo data-driven: parole connettive nello scritto di apprendenti di livello B
 
 Tendenze generali
 
-| cefr | norm frequency | types | types/tokens |
-|------|----------------|-------|--------------|
-| B1   |12,029.73       |39     |              |
-| B2   |13,996.62       |52     |              |
-| C1   |10,576.61       |52     |              |
-| C2   |10,140.63       |59     |              |
+| cefr | norm frequency | types | types/tokens   |
+|------|----------------|-------|----------------|
+| B1   |12,029.73       |39     |39/1,884 = 0.021|
+| B2   |13,996.62       |52     |52/2,131 = 0.024|
+| C1   |10,576.61       |52     |52/1,585 = 0.032|
+| C2   |10,140.63       |59     |59/1,520 = 0.039|
+
+frequenza normalizzata diminuisce, tipi normalizzati aumentano.
 
 Quali sono i connettivi comuni a tutti i livelli? ​​
 
-Nonostante, affinché, che cosa, chi, com', come, cos', cosa, dato che, dove, finché, in quanto, perché, poiché, prima che, quale, quali, quanto, se, sempre che, senza che, tanto che, tanto da, 
+pron int: che cosa, chi, com', come, cos', cosa, dove, quale, quali, quanto
+temp: prima che, finché
+caus: in quanto, perché, poiché, dato che
+res: tanto che, tanto da,
+fin: affinché
+cond: se, sempre che  
+conc: Nonostante
+mod: senza che
 
 Connettivi tipici livelli più avanzati (appaiono solo nei livelli C1-C2):
 
@@ -91,11 +100,18 @@ Tendenze generali
 
 | cefr | norm frequency | types | types/tokens |
 |------|----------------|-------|--------------|
-| B1   |12,029.73       |39     |              |
-| B2   |13,996.62       |52     |              |
-| C1   |10,576.61       |52     |              |
-| C2   |10,140.63       |59     |              |
+| B1   | 28012          |19     |0.007         |
+| B2   | 27707          |19     |0.015         |
+| C1   | 22922          |14     |0.057         |
+| C2   | 22860          |9      |0.108         |
 
 Quali sono i connettivi comuni a tutti i livelli? ​​
 
+perché, quando, se, come, dopo, mentre, poiché, siccome
+
 Connettivi tipici livelli più avanzati (appaiono solo nei livelli C1-C2):
+
+in realtà non ci sono veri e propri connettivi tipici dei livelli più alti (a parte anziché che appare solo nel C1).
+Connettivi tipici dei livelli più bassi però sembrano essere i pronomi interrogativi es. cosa, dove, com', cos'è e il connettivo comunque (a metà tra discourse marker e connettivo di opposizione).
+
+Vedi notebook per tendenze interessanti sui singoli connettivi.
